@@ -26,5 +26,6 @@ $ git clone https://github.com/keshibat/Fill_in_blank_quiz
 ```
 $ python Code_Your_Own_Quiz.py
 ```
-
+** **
+![Your terminal should be like this](/docs/display.png?raw=true "")
 
